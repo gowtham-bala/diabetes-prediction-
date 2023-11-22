@@ -1,0 +1,52 @@
+/* styles.css */
+
+body {
+    background: #3498db;
+    font-family: 'Arimo', sans-serif;
+  }
+  
+  .login {
+    width: 300px;
+    padding: 16px;
+    margin: 0 auto;
+  }
+  
+  .login h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 10px 0;
+    font-family: 'Pacifico', cursive;
+  }
+  
+  .login input[type="text"] {
+    width: 100%;
+    box-sizing: border-box;
+    display: 8px;
+    margin-bottom: 25px;
+    padding: 10px;
+    margin-bottom: 25px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    font-family: 'Arimo', sans-serif;
+  }
+  
+  .login button {
+    font-size: 16px;
+    display: block;
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    background: #3498db;
+    color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .login button:hover {
+    background: #2980b9;
+  }
+  
+  
